@@ -1,0 +1,16 @@
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\bin\Debug\net5.0\Game 'Gladiator fight'.exe
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\bin\Debug\net5.0\Game 'Gladiator fight'.deps.json
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\bin\Debug\net5.0\Game 'Gladiator fight'.runtimeconfig.json
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\bin\Debug\net5.0\Game 'Gladiator fight'.runtimeconfig.dev.json
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\bin\Debug\net5.0\Game 'Gladiator fight'.dll
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\bin\Debug\net5.0\ref\Game 'Gladiator fight'.dll
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\bin\Debug\net5.0\Game 'Gladiator fight'.pdb
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\obj\Debug\net5.0\Game 'Gladiator fight'.csproj.AssemblyReference.cache
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\obj\Debug\net5.0\Game 'Gladiator fight'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\obj\Debug\net5.0\Game 'Gladiator fight'.AssemblyInfoInputs.cache
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\obj\Debug\net5.0\Game 'Gladiator fight'.AssemblyInfo.cs
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\obj\Debug\net5.0\Game 'Gladiator fight'.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\obj\Debug\net5.0\Game 'Gladiator fight'.dll
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\obj\Debug\net5.0\ref\Game 'Gladiator fight'.dll
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\obj\Debug\net5.0\Game 'Gladiator fight'.pdb
+C:\Users\kolya\source\repos\Game 'Gladiator fight'\Game 'Gladiator fight'\obj\Debug\net5.0\Game 'Gladiator fight'.genruntimeconfig.cache

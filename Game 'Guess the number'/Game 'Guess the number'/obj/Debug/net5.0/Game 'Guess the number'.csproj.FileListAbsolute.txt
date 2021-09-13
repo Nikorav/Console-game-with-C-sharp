@@ -1,0 +1,16 @@
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\bin\Debug\net5.0\Game 'Guess the number'.exe
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\bin\Debug\net5.0\Game 'Guess the number'.deps.json
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\bin\Debug\net5.0\Game 'Guess the number'.runtimeconfig.json
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\bin\Debug\net5.0\Game 'Guess the number'.runtimeconfig.dev.json
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\bin\Debug\net5.0\Game 'Guess the number'.dll
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\bin\Debug\net5.0\ref\Game 'Guess the number'.dll
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\bin\Debug\net5.0\Game 'Guess the number'.pdb
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\obj\Debug\net5.0\Game 'Guess the number'.csproj.AssemblyReference.cache
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\obj\Debug\net5.0\Game 'Guess the number'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\obj\Debug\net5.0\Game 'Guess the number'.AssemblyInfoInputs.cache
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\obj\Debug\net5.0\Game 'Guess the number'.AssemblyInfo.cs
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\obj\Debug\net5.0\Game 'Guess the number'.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\obj\Debug\net5.0\Game 'Guess the number'.dll
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\obj\Debug\net5.0\ref\Game 'Guess the number'.dll
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\obj\Debug\net5.0\Game 'Guess the number'.pdb
+C:\Users\kolya\source\repos\Game 'Guess the number'\Game 'Guess the number'\obj\Debug\net5.0\Game 'Guess the number'.genruntimeconfig.cache
